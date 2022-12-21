@@ -136,7 +136,7 @@
                                             <p>By: </p>
                                             <p>
                                                 Name: <span
-                              .0                      t-field="doc.partner_contact_id.name"
+                                                    t-field="doc.partner_contact_id.name"
                                                 />
                                             </p>
                                             <p>
